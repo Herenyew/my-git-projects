@@ -2,3 +2,7 @@ h1 {
   text-align: center;
   color: red;
 }
+form {
+  background-color: blue;
+  padding: 20px 10px;
+}
